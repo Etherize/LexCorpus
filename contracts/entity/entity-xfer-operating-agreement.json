@@ -1,0 +1,30 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type": "text",
+     "name": "address",
+     "title": "Which blockchain address should own the company?",
+     "description": "Place your Edgeware address here."
+    },
+    {
+     "type": "text",
+     "name": "number",
+     "title": "Which number would you like?",
+     "description": "Each entity has its own number - e.g., \"WyDAO Series LLC 888\""
+    },
+    {
+     "type": "datepicker",
+     "name": "date",
+     "title": "When should the company start?",
+     "description": "Leave blank for immediately ",
+     "defaultValue": "06/30/2021"
+    }
+   ],
+   "title": "Entity Formation",
+   "description": "This form will help you create a legal entity, under the control of your Edgeware address. "
+  }
+ ]
+}

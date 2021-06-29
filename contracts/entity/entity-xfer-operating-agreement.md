@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1pvS3I8YRcKHmx0web44g2XSWajgFp2ySnoJKOE0FfnU/
 ## OF
 # WyDAO LLC SERIES [NUMBER]
 
-This limited liability company agreement is made as of [DATE] (the "**Effective Date**") by and among the Manager, the Members, and those Persons who have or may become parties to this Agreement in the future, in accordance with the terms of this Agreement (collectively the "**_Parties_**") of the WyDAO LLC Series [Number] (the "**Company**"). In consideration of the mutual covenants in this Agreement the Parties agree as follows:
+This limited liability company agreement is made as of [DATE] (the "**Effective Date**") by and among the Manager, the Members, and those Persons who have or may become parties to this Agreement in the future, in accordance with the terms of this Agreement (collectively the "**_Parties_**") of the WyDAO LLC Series [NUMBER] (the "**Company**"). In consideration of the mutual covenants in this Agreement the Parties agree as follows:
 
 
 
@@ -426,7 +426,7 @@ This limited liability company agreement is made as of [DATE] (the "**Effective 
 
                 Date:
                 Block:
-                By: 	**[WALLET ADDRESS]**, Member/Manager
+                By: 	**[ADDRESS]**, Member/Manager
 
 
 ### **SCHEDULE A**
